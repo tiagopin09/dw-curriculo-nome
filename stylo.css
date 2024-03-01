@@ -1,0 +1,15 @@
+body {
+    background-color: #333232;
+}
+
+.head {
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+
+}
+
+img {
+
+    border: solid 2.5px red;
+}
